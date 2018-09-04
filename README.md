@@ -1,0 +1,2 @@
+# Ahoi
+Erstes Verzeichnis ever
